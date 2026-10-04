@@ -50,6 +50,8 @@ You may embed media files within a note using HTML5 media tags. Here's an exampl
   Your browser does not support the audio element.
 </audio>
 
+<object data="{{ site.baseurl }}/assets/cv.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 ### Site configuration
 
 Some behavior is configurable by tweaking the `_config.yml` file.
