@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome! 🌱
 
-<p style="padding: 1em 1em; background: #f5f7ff; border-radius: 4px;">
+<p style="padding: 1em 1em; background: #f0f7ff; border-radius: 4px;">
   I'm a doctoral candidate in Sociology at the University of North Carolina at Chapel Hill.
 </p>
 
