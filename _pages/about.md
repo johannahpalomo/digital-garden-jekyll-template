@@ -12,4 +12,6 @@ I expect to complete my PhD in May 2027. I received my MA in Sociology from UNC 
 
 Beyond my scholarly work, I love [going to the movies with friends](https://www.thechelseatheater.org/), birding, reading, [learning new programming languages](https://github.com/johannahpalomo), and watching basketball[^1].
 
+---
+
 [^1]: [San Antonio Spurs](https://en.wikipedia.org/wiki/San_Antonio_Spurs), [Las Vegas Aces](https://en.wikipedia.org/wiki/Las_Vegas_Aces), [UNC Men's Basketball](https://en.wikipedia.org/wiki/North_Carolina_Tar_Heels_men's_basketball), and [UNC Women's Basketball](https://en.wikipedia.org/wiki/North_Carolina_Tar_Heels_women's_basketball)
